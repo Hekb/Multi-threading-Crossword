@@ -1,4 +1,4 @@
-#Multi-threaded Crossword Game
+# Multi-threaded Crossword Game
 Multi-threading crossword game where players can connect to a server and play against each others.
 
 **Technologies Used**
