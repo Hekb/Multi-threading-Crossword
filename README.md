@@ -1,5 +1,5 @@
 # Multi-threaded Crossword Game
-Multi-threading crossword game where players can connect to a server and play against each others.
+Multi-threading crossword game where players can connect to a server and play against each other written in Java. Utilized the concept of locks and conditions to ensure a thread-safe program and maintain order.
 
 **Technologies Used**
 - Java
